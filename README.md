@@ -8,7 +8,7 @@ The project focuses on improving operational efficiency, guest satisfaction, and
 
 ## Features
 
-Based on the project report and directory structure, the system includes:
+The system includes:
 
 - **Guest Module**:
   - Guest registration, profile management (view/edit), and uploads (e.g., profile images).
