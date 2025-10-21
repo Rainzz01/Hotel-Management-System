@@ -166,7 +166,7 @@ Not specified; open-source for educational purposes.
 
 ## Contact
 
-For issues, contact [Rainzz01](https://github.com/Rainzz01) or group members from the report.
+For issues, contact [Rainzz01](https://github.com/Rainzz01) or group members.
 
 ---
 
